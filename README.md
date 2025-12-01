@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/viviannabila"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://instagram.com/vvnblb_"><img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram"></a>
-  <a href="mailto:https://gmail.com/viviannabilaberlianty@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:viviannabilaberliantu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
