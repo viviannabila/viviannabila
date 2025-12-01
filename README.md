@@ -52,9 +52,10 @@ When I'm not working with data, I enjoy watching mystery-themed Korean dramas an
 
 #### Programming & Automation
 <p>
-  <!--img src="https://img.shields.io/badge/Python-Learning-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge"-->
   <img src="https://img.shields.io/badge/Scilab-Expert-96CEB4?style=flat&logo=scilab&logoColor=white" alt= "Scilab Skill Badge">
+  <!--img src="https://img.shields.io/badge/Python-Beginner-E97627?style=flat&logo=python&logoColor=white" alt="Python Skill Badge"-->
   
+  <!--img src="https://img.shields.io/badge/Python-Learning-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge"-->
   <!--img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge"-->
 </p>
 
