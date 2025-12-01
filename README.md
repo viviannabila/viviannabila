@@ -14,7 +14,7 @@
 </p>
 
 ## 🚀 About Me 
-I am a data analyst passionate about helping businesses understand their data. I enjoy transforming complex and messy datasets into clear stories and actionable insights.
+I am a fresh graduate with a bachelor's degree in mathematics from Sunan Gunung Djati State Islamic University. I am passionate about data analysis and helping businesses understand their data. I enjoy transforming complex and messy datasets into clear stories and actionable insights.
 
 My focus is on building actively used dashboards and automating repetitive tasks to free up teams to focus on more interesting problems.
 
