@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/viviannabila"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://instagram.com/vvnblb_"><img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram"></a>
-  <a href="mailto:https://gmail.com/viviannabilaberlianty"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:https://gmail.com/viviannabilaberlianty@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
@@ -25,14 +25,13 @@ When I'm not working with data, I enjoy watching mystery-themed Korean dramas an
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project e-commerce data analyst:** Data exploration , cleansing data, and creating an interactive e-commerce performance dashboard in Excel. 
+- **Project US delay flight:** Data exploration, cleansing data, and creating an interactive delay flight dashboard in Tableau.
+
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- SQL with Google BigQuery
 
 ## 🛠️ Technical Skillset
 
@@ -41,16 +40,17 @@ When I'm not working with data, I enjoy watching mystery-themed Korean dramas an
 #### Data Analysis & Visualization
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Beginner-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
+  <!--img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge"-->
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Tableau-Beginner-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 </p>
 
 #### Programming & Automation
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  
+  <!--img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge"-->
 </p>
 
 #### Business Intelligence & Analytics
